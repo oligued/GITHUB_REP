@@ -10,9 +10,7 @@ public class MyClassGitTest {
 		System.out.println("Hello !");
 		System.out.println("How are you ?");
 		System.out.println("Nice and you ?");
-		
-		
-
+		System.out.println("Very nice ! I understand GIT !");
 	}
 
 }
